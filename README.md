@@ -34,21 +34,23 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-**Programming Languages:**
-<p>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+---
+
+### 💬 Daily Coding Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" alt="Dev Quote" />
 </p>
 
-### 📊 GitHub Stats
+### 🎭 Coding Life in a Nutshell
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJueXF4eXJueXF4eXJueXF4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDlzGX6/giphy.gif" width="400" alt="Programming Meme Animation" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=digitalgarage&show_icons=true&theme=radium&hide_border=true" alt="GitHub stats" />
+  <i>"It works on my machine" - Every Developer Ever 🤡</i>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digitalgarage&theme=radium&hide_border=true" alt="GitHub Streak" />
-</p>
+
+---
 
 ### 📫 Connect with me
 
