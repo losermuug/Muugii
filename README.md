@@ -15,6 +15,7 @@
 * 🎓 Studying **Software Engineering**
 * 🌱 Deepening my knowledge in the **MERN stack**
 * 💻 Passionate about building web and mobile applications
+* ❤️ Proud boyfriend of **Maral**
 
 ### 🛠 Tech Stack
 
@@ -36,6 +37,19 @@
 
 ---
 
+### ⚽ Football Heart
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Liverpool%20FC-C8102E?style=for-the-badge&logo=liverpoolfc&logoColor=white" alt="Liverpool FC" />
+  <img src="https://img.shields.io/badge/FC%20Barcelona-A50044?style=for-the-badge&logo=fcbarcelona&logoColor=white" alt="FC Barcelona" />
+</p>
+
+<p align="center">
+  <b>"You'll Never Walk Alone"</b> 🔴 | <b>"Més que un club"</b> 🔵🔴
+</p>
+
+---
+
 ### 💬 Daily Coding Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" alt="Dev Quote" />
@@ -46,10 +60,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJueXF4eXJueXF4eXJueXF4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDlzGX6/giphy.gif" width="400" alt="Programming Meme Animation" />
 </p>
 
-<p align="center">
-  <i>"It works on my machine" - Every Developer Ever 🤡</i>
-</p>
-
 ---
 
 ### 📫 Connect with me
@@ -58,4 +68,17 @@
   <a href="mailto:one.munkhzul@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://facebook.com/your-profile">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/your-profile">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Special thanks to <b>Maral</b> for the endless support and inspiration ✨</i>
 </p>
