@@ -15,7 +15,6 @@
 * 🎓 Studying **Software Engineering**
 * 🌱 Deepening my knowledge in the **MERN stack**
 * 💻 Passionate about building web and mobile applications
-* ❤️ Proud boyfriend of **Maral**
 
 ### 🛠 Tech Stack
 
@@ -55,11 +54,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" alt="Dev Quote" />
 </p>
 
-### 🎭 Coding Life in a Nutshell
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eXJueXF4eXJueXF4eXJueXF4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDlzGX6/giphy.gif" width="400" alt="Programming Meme Animation" />
-</p>
-
 ---
 
 ### 📫 Connect with me
@@ -68,17 +62,14 @@
   <a href="mailto:one.munkhzul@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://facebook.com/your-profile">
+  <a href="https://www.facebook.com/muugii.583317">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/your-profile">
+  <a href="https://instagram.com/watermorphosis">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <i>Special thanks to <b>Maral</b> for the endless support and inspiration ✨</i>
+  <i><b>Maral</b> is the <code>Main()</code> function of my life. Without her, nothing works. 🌻</i>
 </p>
